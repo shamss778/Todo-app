@@ -1,5 +1,5 @@
 export enum TodoStatusEnum {
-    'actif' = "En cours",
-    'waiting' = "En attente",
-    'done' = "Finalisé"
+    'active' = "active",
+    'waiting' = "waiting",
+    'done' = "done"
 }
